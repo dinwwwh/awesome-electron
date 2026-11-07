@@ -256,6 +256,7 @@ Made with Electron.
 - [Hydraulic Conveyor](https://hydraulic.dev) - CLI tool that deploys apps without needing any special update servers, multi-platform CI, or code changes.
 - [Aptabase](https://aptabase.com/for-electron) - Analytics for apps. Open source, privacy-friendly, and simple.
 - [electron-webauthn-mac](https://github.com/vault12/electron-webauthn-mac) - Native WebAuthn/Passkey support for macOS apps via Apple's AuthenticationServices framework.
+- [oRPC](https://orpc.dev/docs/adapters/electron) - Typesafe communication between the main and renderer processes.
 
 ### Using Electron
 
